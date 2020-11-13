@@ -1,0 +1,3 @@
+Ben;ben1989;ben0104@mail.ru;5a6l7e8x1234;ADMIN
+Evgenius;evgen_eva;eva01@gmail.com;12345678;USER
+Jack;shepard_4;jackshep@gmail.com;4815162342;USER
